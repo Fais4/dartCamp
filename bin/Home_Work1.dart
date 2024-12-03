@@ -11,8 +11,8 @@ void main() {
 
   //checkCase method test cases
   print(checkCase("HoUse"));
-  print(checkCase("DARt"));
   print(checkCase("ORAnge"));
+  print("object");
   print("");
 
   //countLetters method test cases
